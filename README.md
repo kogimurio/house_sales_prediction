@@ -1,1 +1,1 @@
-House Sales Price Prediction
+House Sales Price Prediction using Regression models. I have applied ensemble, boosting and regularized regression learning and hyperparameter optimization with ML models. ML stack: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree and Random Forest Regression
